@@ -1,0 +1,13 @@
+---
+title:
+- type: main
+  text: Go 101
+creator:
+- role: author
+  text: Steve Hook
+description: Everything you need to know about the Go programming language
+rights: Commercial
+language: en-US
+stylesheet: styles/style.css
+cover-image: images/cover.jpg
+...
